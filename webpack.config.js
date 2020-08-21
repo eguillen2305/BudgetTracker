@@ -3,9 +3,7 @@ const path = require('path');
 
 const config = {
 	entry: {
-		app: './assets/js/index.js',
-		favorites: './assets/js/favorites.js',
-		topic: './assets/js/topic.js'
+		app: './index.js'
 	},
 	output: {
 		path: __dirname + '/dist',
@@ -37,7 +35,8 @@ const config = {
 			start_url: '/',
 			icons: [
 				{
-					src: path.resolve('assets/images/icons/android-chrome-192x192.png'),
+					//EDDIE ADD A FRUCKING ICON HERE
+					src: path.resolve('assets/images/'),
 					sizes: [ 192, 512 ],
 					destination: path.join('icons')
 				}
