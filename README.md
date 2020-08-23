@@ -10,8 +10,8 @@
 Progressive web application to help keep track of budget expenses and income.
 
 
-![Screenshot1](https://github.com/eguillen2305/FitnessTracker/blob/master/Screenshots/Screenshot1.png)
-![GIF DEMO](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/demo.mp4)
+
+![GIF DEMO](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Demo.mp4)
 ![Screenshot](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Screenshot1.png)
 
 
