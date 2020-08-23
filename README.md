@@ -19,7 +19,7 @@ Progressive web application to help keep track of budget expenses and income.
 ## How to use the Application
 
 Access to Heroku:
-https://fitnesstracker2305.herokuapp.com/
+https://budgettracker2305.herokuapp.com/
 
 
 ### Local Demo Install
