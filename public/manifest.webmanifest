@@ -1,6 +1,10 @@
   {
     "short_name": "BudgetTracker",
     "name": "BudgetTracker",
+    "start_url": "/",
+    "background_color": "#2A3443",
+    "display": "standalone",
+    "theme_color": "#ffffff",
     "icons": [
       {
         "src": "/icons/icon-192x192.png",
@@ -12,10 +16,6 @@
         "sizes": "512x512",
         "type": "image/png"
       }
-    ],
-    "start_url": "/",
-    "background_color": "#808080",
-    "display": "standalone",
-    "theme_color": "#808080"
+    ]
   }
 
