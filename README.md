@@ -10,7 +10,6 @@
 Progressive web application to help keep track of budget expenses and income.
 
 
-![GIF DEMO](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Demo.mp4)
 ![Screenshot](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Screenshot1.png)
 
 
