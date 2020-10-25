@@ -10,10 +10,8 @@
 Progressive web application to help keep track of budget expenses and income.
 
 
-
 ![GIF DEMO](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Demo.mp4)
 ![Screenshot](https://github.com/eguillen2305/BudgetTracker/blob/master/Screenshots/Screenshot1.png)
-
 
 
 ## How to use the Application
@@ -30,15 +28,12 @@ https://budgettracker2305.herokuapp.com/
 4. run on local host on chrome "4000"
 
 ## Technology Used
- ![](http://williamavasquez.herokuapp.com/img/js.png)
- 
- ![](http://williamavasquez.herokuapp.com/img/node.png)
+
 #### Express
 #### MLab MongoDB
 #### MongoDB
 #### Mongoose
 #### Robo 3T
-
 
 ## Author
 eguillen2035
